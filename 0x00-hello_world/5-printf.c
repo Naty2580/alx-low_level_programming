@@ -4,6 +4,7 @@
  * main - Entry point
  *
  * prinf Return-the given text in the parenthesis
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
